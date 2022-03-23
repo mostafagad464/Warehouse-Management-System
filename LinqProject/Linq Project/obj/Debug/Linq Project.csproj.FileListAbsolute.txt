@@ -1,0 +1,564 @@
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.AssemblyReference.cache
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Client.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Product.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Store.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Supllier.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Client_Permission.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Client.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Product.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Store.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Supplier.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\obj\Debug\Linq_Project.MainForm.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Properties.Resources.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Reports.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.GenerateResource.cache
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\bin\Debug\Linq Project.exe.config
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\bin\Debug\Linq Project.exe
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\bin\Debug\Linq Project.pdb
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\bin\Debug\EntityFramework.dll
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\bin\Debug\IdentityServer3.dll
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\bin\Debug\Owin.dll
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\bin\Debug\EntityFramework.xml
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\bin\Debug\IdentityServer3.pdb
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\bin\Debug\IdentityServer3.xml
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.CopyComplete
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\obj\Debug\Linq Project.exe
+C:\Users\Mostafa M. Gad\Documents\GitHub\Linq Project\LinqProject\Linq Project\obj\Debug\Linq Project.pdb
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\bin\Debug\Linq Project.exe.config
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\bin\Debug\Linq Project.exe
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\bin\Debug\Linq Project.pdb
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\bin\Debug\EntityFramework.dll
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\bin\Debug\IdentityServer3.dll
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\bin\Debug\Owin.dll
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\bin\Debug\EntityFramework.xml
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\bin\Debug\IdentityServer3.pdb
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\bin\Debug\IdentityServer3.xml
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.AssemblyReference.cache
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Client.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Product.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Store.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Supllier.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\obj\Debug\Linq_Project.Client_Permission.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Client.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Product.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Store.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Supplier.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\obj\Debug\Linq_Project.MainForm.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\obj\Debug\Linq_Project.Properties.Resources.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\obj\Debug\Linq_Project.Reports.resources
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.GenerateResource.cache
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.CopyComplete
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\obj\Debug\Linq Project.exe
+C:\Users\Mostafa M. Gad\Documents\GitHub\LinqProject\Linq Project\obj\Debug\Linq Project.pdb
+D:\LinqProject\Linq Project\bin\Debug\Linq Project.exe.config
+D:\LinqProject\Linq Project\bin\Debug\Linq Project.exe
+D:\LinqProject\Linq Project\bin\Debug\Linq Project.pdb
+D:\LinqProject\Linq Project\bin\Debug\EntityFramework.dll
+D:\LinqProject\Linq Project\bin\Debug\EntityFramework.SqlServer.dll
+D:\LinqProject\Linq Project\bin\Debug\IdentityServer3.dll
+D:\LinqProject\Linq Project\bin\Debug\Owin.dll
+D:\LinqProject\Linq Project\bin\Debug\EntityFramework.xml
+D:\LinqProject\Linq Project\bin\Debug\EntityFramework.SqlServer.xml
+D:\LinqProject\Linq Project\bin\Debug\IdentityServer3.pdb
+D:\LinqProject\Linq Project\bin\Debug\IdentityServer3.xml
+D:\LinqProject\Linq Project\obj\Debug\Linq Project.csprojAssemblyReference.cache
+D:\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Client.resources
+D:\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Product.resources
+D:\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Store.resources
+D:\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Supllier.resources
+D:\LinqProject\Linq Project\obj\Debug\Linq_Project.Client_Permission.resources
+D:\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Client.resources
+D:\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Product.resources
+D:\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Store.resources
+D:\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Supplier.resources
+D:\LinqProject\Linq Project\obj\Debug\Linq_Project.MainForm.resources
+D:\LinqProject\Linq Project\obj\Debug\Linq_Project.Properties.Resources.resources
+D:\LinqProject\Linq Project\obj\Debug\Linq_Project.Reports.resources
+D:\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.GenerateResource.cache
+D:\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.CoreCompileInputs.cache
+D:\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.CopyComplete
+D:\LinqProject\Linq Project\obj\Debug\Linq Project.exe
+D:\LinqProject\Linq Project\obj\Debug\Linq Project.pdb
+D:\LinqProject\Linq Project\bin\Debug\Azure.Core.dll
+D:\LinqProject\Linq Project\bin\Debug\Azure.Identity.dll
+D:\LinqProject\Linq Project\bin\Debug\linq2db.dll
+D:\LinqProject\Linq Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LinqProject\Linq Project\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\LinqProject\Linq Project\bin\Debug\Microsoft.Identity.Client.dll
+D:\LinqProject\Linq Project\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\LinqProject\Linq Project\bin\Debug\System.Buffers.dll
+D:\LinqProject\Linq Project\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\LinqProject\Linq Project\bin\Debug\System.Data.SqlClient.dll
+D:\LinqProject\Linq Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\LinqProject\Linq Project\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\LinqProject\Linq Project\bin\Debug\System.Memory.dll
+D:\LinqProject\Linq Project\bin\Debug\System.Numerics.Vectors.dll
+D:\LinqProject\Linq Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\LinqProject\Linq Project\bin\Debug\System.Security.AccessControl.dll
+D:\LinqProject\Linq Project\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\LinqProject\Linq Project\bin\Debug\System.Security.Permissions.dll
+D:\LinqProject\Linq Project\bin\Debug\System.Security.Principal.Windows.dll
+D:\LinqProject\Linq Project\bin\Debug\System.Text.Encodings.Web.dll
+D:\LinqProject\Linq Project\bin\Debug\System.Text.Json.dll
+D:\LinqProject\Linq Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\LinqProject\Linq Project\bin\Debug\System.ValueTuple.dll
+D:\LinqProject\Linq Project\bin\Debug\Azure.Core.xml
+D:\LinqProject\Linq Project\bin\Debug\Azure.Identity.xml
+D:\LinqProject\Linq Project\bin\Debug\linq2db.xml
+D:\LinqProject\Linq Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\LinqProject\Linq Project\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\LinqProject\Linq Project\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\LinqProject\Linq Project\bin\Debug\Microsoft.Identity.Client.xml
+D:\LinqProject\Linq Project\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\LinqProject\Linq Project\bin\Debug\System.Buffers.xml
+D:\LinqProject\Linq Project\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\LinqProject\Linq Project\bin\Debug\System.Data.SqlClient.xml
+D:\LinqProject\Linq Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\LinqProject\Linq Project\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\LinqProject\Linq Project\bin\Debug\System.Memory.xml
+D:\LinqProject\Linq Project\bin\Debug\System.Numerics.Vectors.xml
+D:\LinqProject\Linq Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\LinqProject\Linq Project\bin\Debug\System.Security.AccessControl.xml
+D:\LinqProject\Linq Project\bin\Debug\System.Security.Permissions.xml
+D:\LinqProject\Linq Project\bin\Debug\System.Security.Principal.Windows.xml
+D:\LinqProject\Linq Project\bin\Debug\System.Text.Encodings.Web.xml
+D:\LinqProject\Linq Project\bin\Debug\System.Text.Json.xml
+D:\LinqProject\Linq Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\LinqProject\Linq Project\bin\Debug\System.ValueTuple.xml
+D:\LinqProject\Linq Project\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\LinqProject\Linq Project\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\LinqProject\Linq Project\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\LinqProject\Linq Project\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\LinqProject\Linq Project\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\LinqProject\Linq Project\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\LinqProject\Linq Project\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\LinqProject\Linq Project\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\LinqProject\Linq Project\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\LinqProject\Linq Project\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\LinqProject\Linq Project\obj\Debug\Linq_Project.Supplier_Permission.resources
+D:\LinqProject\Linq Project\obj\Debug\Linq_Project.Transfer_Product.resources
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Linq Project.exe.config
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Linq Project.exe
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Linq Project.pdb
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Azure.Core.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Azure.Identity.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\EntityFramework.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\EntityFramework.SqlServer.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\IdentityServer3.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\linq2db.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Microsoft.Identity.Client.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Owin.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Buffers.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Data.SqlClient.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Memory.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Numerics.Vectors.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Security.AccessControl.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Security.Permissions.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Security.Principal.Windows.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Text.Encodings.Web.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Text.Json.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.ValueTuple.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Azure.Core.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Azure.Identity.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\EntityFramework.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\EntityFramework.SqlServer.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\IdentityServer3.pdb
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\IdentityServer3.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\linq2db.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Microsoft.Identity.Client.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Buffers.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Data.SqlClient.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Memory.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Numerics.Vectors.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Security.AccessControl.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Security.Permissions.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Security.Principal.Windows.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Text.Encodings.Web.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Text.Json.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\System.ValueTuple.xml
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Linq & EF\LinqProject\Linq Project\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Linq & EF\LinqProject\Linq Project\obj\Debug\Linq Project.csprojAssemblyReference.cache
+D:\Linq & EF\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Client.resources
+D:\Linq & EF\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Product.resources
+D:\Linq & EF\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Store.resources
+D:\Linq & EF\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Supllier.resources
+D:\Linq & EF\LinqProject\Linq Project\obj\Debug\Linq_Project.Client_Permission.resources
+D:\Linq & EF\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Client.resources
+D:\Linq & EF\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Product.resources
+D:\Linq & EF\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Store.resources
+D:\Linq & EF\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Supplier.resources
+D:\Linq & EF\LinqProject\Linq Project\obj\Debug\Linq_Project.MainForm.resources
+D:\Linq & EF\LinqProject\Linq Project\obj\Debug\Linq_Project.Properties.Resources.resources
+D:\Linq & EF\LinqProject\Linq Project\obj\Debug\Linq_Project.Supplier_Permission.resources
+D:\Linq & EF\LinqProject\Linq Project\obj\Debug\Linq_Project.Transfer_Product.resources
+D:\Linq & EF\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.GenerateResource.cache
+D:\Linq & EF\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.CoreCompileInputs.cache
+D:\Linq & EF\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.CopyComplete
+D:\Linq & EF\LinqProject\Linq Project\obj\Debug\Linq Project.exe
+D:\Linq & EF\LinqProject\Linq Project\obj\Debug\Linq Project.pdb
+D:\Linq & EF\LinqProject\Linq Project\obj\Debug\Linq_Project.Report.resources
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Linq Project.exe.config
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Linq Project.exe
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Linq Project.pdb
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Azure.Core.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Azure.Identity.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\EntityFramework.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\IdentityServer3.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\linq2db.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Owin.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Buffers.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Memory.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Security.Permissions.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Text.Json.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.ValueTuple.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Azure.Core.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Azure.Identity.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\EntityFramework.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\IdentityServer3.pdb
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\IdentityServer3.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\linq2db.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Buffers.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Memory.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Security.Permissions.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Text.Json.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\System.ValueTuple.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.AssemblyReference.cache
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Client.resources
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Product.resources
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Store.resources
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Supllier.resources
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\obj\Debug\Linq_Project.Client_Permission.resources
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Client.resources
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Product.resources
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Store.resources
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Supplier.resources
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\obj\Debug\Linq_Project.MainForm.resources
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\obj\Debug\Linq_Project.Properties.Resources.resources
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\obj\Debug\Linq_Project.Report.resources
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\obj\Debug\Linq_Project.Supplier_Permission.resources
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\obj\Debug\Linq_Project.Transfer_Product.resources
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.GenerateResource.cache
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.CopyComplete
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\obj\Debug\Linq Project.exe
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\obj\Debug\Linq Project.pdb
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\EnvDTE.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\stdole.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\EnvDTE.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mostafa M. Gad\Downloads\LinqProject\Linq Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Linq Project.exe.config
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Linq Project.exe
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Linq Project.pdb
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Azure.Core.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Azure.Identity.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\EntityFramework.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\IdentityServer3.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\linq2db.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Owin.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Buffers.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Memory.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Security.Permissions.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Text.Json.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.ValueTuple.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\EnvDTE.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\stdole.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Azure.Core.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Azure.Identity.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\EntityFramework.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\IdentityServer3.pdb
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\IdentityServer3.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\linq2db.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Buffers.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Memory.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Security.Permissions.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Text.Json.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\System.ValueTuple.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\EnvDTE.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.AssemblyReference.cache
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Client.resources
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Product.resources
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Store.resources
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Add_Supllier.resources
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Client_Permission.resources
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Client.resources
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Product.resources
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Store.resources
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Edit_Supplier.resources
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\obj\Debug\Linq_Project.MainForm.resources
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Properties.Resources.resources
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Report.resources
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Supplier_Permission.resources
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\obj\Debug\Linq_Project.Transfer_Product.resources
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.GenerateResource.cache
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\obj\Debug\Linq Project.csproj.CopyComplete
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\obj\Debug\Linq Project.exe
+C:\Users\Mostafa M. Gad\source\repos\Project\LinqProject\Linq Project\obj\Debug\Linq Project.pdb

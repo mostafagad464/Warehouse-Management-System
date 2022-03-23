@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "EFPProjectReports", "EFPProjectReports\EFPProjectReports.rptproj", "{ACF4C1BD-A875-4C21-AC74-12776D67F4AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACF4C1BD-A875-4C21-AC74-12776D67F4AE}.Debug|Default.ActiveCfg = Debug
+		{ACF4C1BD-A875-4C21-AC74-12776D67F4AE}.Debug|Default.Build.0 = Debug
+		{ACF4C1BD-A875-4C21-AC74-12776D67F4AE}.Debug|Default.Deploy.0 = Debug
+		{ACF4C1BD-A875-4C21-AC74-12776D67F4AE}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{ACF4C1BD-A875-4C21-AC74-12776D67F4AE}.DebugLocal|Default.Build.0 = DebugLocal
+		{ACF4C1BD-A875-4C21-AC74-12776D67F4AE}.Release|Default.ActiveCfg = Release
+		{ACF4C1BD-A875-4C21-AC74-12776D67F4AE}.Release|Default.Build.0 = Release
+		{ACF4C1BD-A875-4C21-AC74-12776D67F4AE}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {691D6C41-1CDA-484E-A91A-A2A5F68AC840}
+	EndGlobalSection
+EndGlobal
